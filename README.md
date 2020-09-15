@@ -1,2 +1,2 @@
 # Advanced-Data-Structure
-Advanced Data Structure course
+Advanced Data Structure Practices
