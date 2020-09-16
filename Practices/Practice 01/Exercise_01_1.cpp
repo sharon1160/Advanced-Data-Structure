@@ -10,8 +10,8 @@ int main(){
 
     for(int i = 0; i < quantity; i++)
     {
-        // vector[i] = 1 + rand() % ((quantity + 1 ) - 1); -- numbers within the range of 1 a 1000000
-        vector[i] = 1 + rand() % (11 - 1); // -- numbers within the range of de 1 a 10
+        // vector[i] = 1 + rand() % ((quantity + 1 ) - 1); -- numbers within the range of 1 to 1000000
+        vector[i] = 1 + rand() % (11 - 1); // -- numbers within the range of de 1 to 10
         cout << vector[i] << " ";
     }
 
