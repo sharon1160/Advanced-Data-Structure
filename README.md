@@ -1,2 +1,2 @@
 # Advanced-Data-Structure
-Advanced Data Structure Practices
+Advanced Data Structure practices
