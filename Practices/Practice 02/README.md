@@ -2,7 +2,7 @@
 
 Una implementación de quadtree en JavaScript.
 
-# ¿Qué es?
+# ¿Qué es? :pushpin:
 
 > "Un [Quadtree](http://en.wikipedia.org/wiki/Quadtree) es una estructura de datos de árbol en la que cada nodo interno tiene exactamente cuatro hijos. Los quadtrees se utilizan con mayor frecuencia para dividir un espacio bidimensional subdividiéndolo de forma recursiva en cuatro cuadrantes o regiones. Las regiones pueden ser cuadradas o rectangulares, o pueden tener formas arbitrarias. Esta estructura de datos fue nombrada quadtree por Raphael Finkel y JL Bentley en 1974. " - Wikipedia (2016)
 
@@ -14,7 +14,7 @@ Una implementación de quadtree en JavaScript.
 
 <br>
 
-# Compresión Quadtree de una imagen
+# Compresión Quadtree de una imagen :pushpin:
 
 > Compresión Quadtree de una imagen paso a paso. La izquierda muestra la imagen comprimida con los cuadros delimitadores del árbol, mientras que la derecha muestra solo la imagen comprimida.
 
