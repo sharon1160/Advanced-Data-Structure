@@ -21,7 +21,7 @@ Una implementación de quadtree en JavaScript.
 <br>
 
 <p align = "centro">
-<img src = "https://en.wikipedia.org/wiki/Quadtree#/media/File:Quadtree_compression_of_an_image.gif">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/d/d7/Quadtree_compression_of_an_image.gif">
 </p>
 
 <br>
