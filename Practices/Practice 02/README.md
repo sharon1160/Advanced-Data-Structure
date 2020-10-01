@@ -1,12 +1,6 @@
-# QuadTree
-
-Un quadtree es una estructura de datos de árbol en la que cada nodo interno tiene exactamente cuatro hijos. Los Quadtrees son el análogo bidimensional de los octrees y se usan con mayor frecuencia para dividir un espacio bidimensional subdividiéndolo recursivamente en cuatro cuadrantes o regiones. Los datos asociados con una celda de la hoja varían según la aplicación, pero la celda de la hoja representa una "unidad de información espacial interesante".
-
-![quadtree](images/quadtree.gif)
-
-QuadTree 
+# QuadTree 
 ---------------
-This is a Java implementation of [Quadtree](http://en.wikipedia.org/wiki/Quadtree), a tree data structure useful to store 2D positional data.
+Un quadtree es una estructura de datos de árbol en la que cada nodo interno tiene exactamente cuatro hijos. Los Quadtrees son el análogo bidimensional de los octrees y se usan con mayor frecuencia para dividir un espacio bidimensional subdividiéndolo recursivamente en cuatro cuadrantes o regiones. Los datos asociados con una celda de la hoja varían según la aplicación, pero la celda de la hoja representa una "unidad de información espacial interesante".
 
 [![CircleCI](https://circleci.com/gh/varunpant/Quadtree.svg?style=svg)](https://circleci.com/gh/varunpant/Quadtree)
 
