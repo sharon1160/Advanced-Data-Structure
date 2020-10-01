@@ -1,6 +1,4 @@
-# :four_leaf_clover: Quadtree
-
-[![p5]](https://p5js.org/es/download/support.html)
+# :evergreen_tree: Quadtree
 
 Una implementación de quadtree en JavaScript.
 
@@ -12,6 +10,20 @@ Una implementación de quadtree en JavaScript.
 
 <p align = "centro">
 <img src = "https://upload.wikimedia.org/wikipedia/commons/8/8b/Point_quadtree.svg">
+</p>
+
+<br>
+
+# 
+
+>
+
+Quadtree compression of an image step by step. Left shows the compressed image with the tree bounding boxes while the right shows just the compressed image
+
+<br>
+
+<p align = "centro">
+<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fpolishedhopefulhalicore&psig=AOvVaw0j595GPlz-J7SLQ67vTU_h&ust=1601611445462000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIia193BkuwCFQAAAAAdAAAAABAJ">
 </p>
 
 <br>
