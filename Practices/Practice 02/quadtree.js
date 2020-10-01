@@ -41,7 +41,7 @@ class QuadTree {
         }
 
         if (typeof n !== 'number') {
-            throw TypeError(`capacity should be a number but is a ${typeof n}`);
+            throw TypeError('capacity should be a number but is a ${typeof n}');
         }
 
         if (n < 1) {
