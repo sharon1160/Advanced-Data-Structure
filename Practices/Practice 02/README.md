@@ -16,7 +16,7 @@ Una implementación de quadtree en JavaScript.
 
 # Compresión Quadtree de una imagen
 
-> Compresión Quadtree de una imagen paso a paso. La izquierda muestra la imagen comprimida con los cuadros delimitadores del árbol, mientras que la derecha muestra solo la imagen comprimida
+> Transformación de una imagen en un Quadtree paso a paso. La izquierda muestra la imagen comprimida con los cuadros delimitadores del árbol, mientras que la derecha muestra solo la imagen comprimida
 
 <br>
 
