@@ -14,16 +14,14 @@ Una implementación de quadtree en JavaScript.
 
 <br>
 
-# 
+# Compresión Quadtree de una imagen
 
->
-
-Quadtree compression of an image step by step. Left shows the compressed image with the tree bounding boxes while the right shows just the compressed image
+> Compresión Quadtree de una imagen paso a paso. La izquierda muestra la imagen comprimida con los cuadros delimitadores del árbol, mientras que la derecha muestra solo la imagen comprimida
 
 <br>
 
 <p align = "centro">
-<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fpolishedhopefulhalicore&psig=AOvVaw0j595GPlz-J7SLQ67vTU_h&ust=1601611445462000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIia193BkuwCFQAAAAAdAAAAABAJ">
+<img src = "https://en.wikipedia.org/wiki/Quadtree#/media/File:Quadtree_compression_of_an_image.gif">
 </p>
 
 <br>
