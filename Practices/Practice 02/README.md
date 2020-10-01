@@ -16,4 +16,3 @@ Una implementación de quadtree en JavaScript.
 
 <br>
 
-![Illustration](http://upload.wikimedia.org/wikipedia/commons/8/8b/Point_quadtree.svg "This image is for Illustration only")
