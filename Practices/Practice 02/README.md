@@ -6,17 +6,14 @@ Una implementación de quadtree en JavaScript.
 
 # What is it?
 
-> "A quadtree is a tree data structure in which each internal node has exactly four children. Quadtrees are most often used to partition a two-dimensional space by recursively subdividing it into four quadrants or regions. The regions may be square or rectangular, or may have arbitrary shapes. This data structure was named a quadtree by Raphael Finkel and J.L. Bentley in 1974." - Wikipedia (2016)
+> "Un [Quadtree](http://en.wikipedia.org/wiki/Quadtree) es una estructura de datos de árbol en la que cada nodo interno tiene exactamente cuatro hijos. Los quadtrees se utilizan con mayor frecuencia para dividir un espacio bidimensional subdividiéndolo de forma recursiva en cuatro cuadrantes o regiones. Las regiones pueden ser cuadradas o rectangulares, o pueden tener formas arbitrarias. Esta estructura de datos fue nombrada quadtree por Raphael Finkel y JL Bentley en 1974. " - Wikipedia (2016)
 
 <br>
 
-<p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Point_quadtree.svg">
+<p align = "centro">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/8/8b/Point_quadtree.svg">
 </p>
 
 <br>
-
-
-Un [Quadtree](http://en.wikipedia.org/wiki/Quadtree) es una estructura de datos de árbol en la que cada nodo interno tiene exactamente cuatro hijos. Los Quadtrees son el análogo bidimensional de los octrees y se usan con mayor frecuencia para dividir un espacio bidimensional subdividiéndolo recursivamente en cuatro cuadrantes o regiones. Los datos asociados con una celda de la hoja varían según la aplicación, pero la celda de la hoja representa una "unidad de información espacial interesante".
 
 ![Illustration](http://upload.wikimedia.org/wikipedia/commons/8/8b/Point_quadtree.svg "This image is for Illustration only")
