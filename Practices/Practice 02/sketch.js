@@ -7,7 +7,7 @@ function setup() {
     // centre point and half of width and height
     let boundary = new Rectangle(200 ,200 ,200 ,200);
 
-    // each leave just could have 4 elements
+    // each leave just could have 8 elements
     qt = new QuadTree( boundary , 8);
 
     console.log(qt);
