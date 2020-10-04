@@ -101,23 +101,26 @@ class QuadTree {
             }
         }
     }
-
+    // La funcion Query consulta si un punto esta 
+    // dentro del rango (range)
     query(range, found) {
-        if (!found) {
+        if (!found) { 
             found = [];
         }
-
         if (!range.intersects(this.boundary)) {
             return found;
         }
-
+        // Hacemos un ciclo por cada punto en el QuadTree
         for (let p of this.points) {
+            // verificamos si esta dentro del rango , si es asi insertamos en el vector found[]
             if (range.contains(p)) {
                 found.push(p);
                 count++; // Contando cuantas veces se consulta un punto
             }
         }
-
+        // si el QuadTree ha sido dividido, llamamos 
+        // recursivamente a la funcion Query
+        // por cada hijo
         if (this.divided) {
             this.northwest.query(range, found);
             this.northeast.query(range, found);
