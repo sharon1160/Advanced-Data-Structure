@@ -25,6 +25,7 @@ function draw() {
 
   stroke(0, 255, 0);
   rectMode(CENTER);
+  // Realizando consultas con el mouse
   let range = new Rectangle(mouseX, mouseY, 50, 50)
   rect(range.x, range.y, range.w * 2, range.h * 2);
   let points = [];
