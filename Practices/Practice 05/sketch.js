@@ -1,6 +1,6 @@
 function setup() {
-    var width = 250;
-    var height = 200;
+    var width = 550;
+    var height = 500;
     createCanvas(width, height);
   
     background(0);
@@ -21,7 +21,7 @@ function setup() {
   
       fill(255, 255, 255);
       circle(x, height - y, 7);
-      textSize(8);
+      textSize(15);
       text(x + ',' + y, x + 5, height - y);
     }
   
